@@ -1,3 +1,3 @@
-This module contains a deep network model built using Keras to classify toxic comments into 5 different classes.
+TOXIC COMMENT CLASSIFICATION CHALLENGE - KAGGLE
 
-The dataset contained 159K samples from Wiki's talk page edits
+A BiLSTM based model was used to build a sentiment classification model to classify sentences into one of the 6 classes. The model was trained on 159,000 samples from Wiki's talk page edits. An accuracy of 98.26% was achieved.
